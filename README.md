@@ -1,4 +1,4 @@
-**Version 1.7.9**
+**version 1.7.9a**
 
 This version supports the retrieval of asset files from the deisgnated directories of Entersoft Application Server
 
