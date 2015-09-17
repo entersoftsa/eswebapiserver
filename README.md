@@ -1,3 +1,5 @@
+**Version 1.7.9c**
+
 **Version 1.7.9b**
 
 **version 1.7.9**      
