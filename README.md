@@ -1,5 +1,7 @@
 **Version 1.7.11**
 
+This version supports the retrieval of binary ES00Document object
+
 **Version 1.7.10**
 
 This version supports the retrieval of ES00Document information objects
