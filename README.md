@@ -1,3 +1,5 @@
+**Version 1.7.11**
+
 **Version 1.7.10**
 
 This version supports the retrieval of ES00Document information objects
