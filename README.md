@@ -1,5 +1,7 @@
 **Version 1.8.1**
 
+This version supports the execution of EBS Services
+
 **Version 1.8.0**
 
 **Version 1.7.11**
